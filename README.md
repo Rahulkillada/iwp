@@ -4,6 +4,7 @@
 <body>
 <script>
 document.write(2+3);
+document.wrie("hello");
 <\script>
 <\body>
 <\html>
